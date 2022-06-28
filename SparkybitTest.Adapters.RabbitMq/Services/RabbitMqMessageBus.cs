@@ -33,6 +33,7 @@ public sealed class RabbitMqMessageBus : IMessageBus, IDisposable
     {
         try
         {
+            // Id of container or kubeNode
             var subscriptionId = Guid.NewGuid().ToString();
 
             await _bus.PubSub.SubscribeAsync(subscriptionId, func, cancellationToken);

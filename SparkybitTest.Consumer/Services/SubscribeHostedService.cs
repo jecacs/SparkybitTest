@@ -13,7 +13,7 @@ public class SubscribeHostedService : BackgroundService
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
-        await Task.Delay(10000, stoppingToken);
+        await Task.Delay(20000, stoppingToken);
 
         _logger.LogWarning("SubscribeHostedService is started");
 
