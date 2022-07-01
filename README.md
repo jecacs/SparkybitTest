@@ -43,7 +43,7 @@ curl -X 'POST' \
 
 ```
 curl -X 'GET' \
-  'http://localhost:5002/api/user' \
+  'http://localhost:5001/api/user' \
   -H 'accept: text/json' \
   -H 'Authorization: Bearer {token}'
 ```
