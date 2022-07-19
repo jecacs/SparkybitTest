@@ -1,7 +1,7 @@
 # SparkybitTest
 
 ## Note about Sparkybit.
-Is scam company with stupid test tasks. Fuck it! Don't waste your time
+Is scam company with stupid test tasks. Don't waste your time, fuck Sparkybit
 
 **How build and start**
 
