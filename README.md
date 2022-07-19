@@ -1,6 +1,9 @@
 # SparkybitTest
 
-How build and start
+## Note about Sparkybit.
+Is scam company with stupid test tasks. Fuck it! Don't waste your time
+
+**How build and start**
 
 ````
 docker-compose build
